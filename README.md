@@ -9,7 +9,3 @@
 <br>
 <br>
 <img src="https://github.com/ramoncbarbosa/ramoncbarbosa/blob/main/assetc/octocat-1685839920740.png">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoncbarbosa&layout=compact&langs_count=7&theme=radical"/>
-</div>
--->
- 
