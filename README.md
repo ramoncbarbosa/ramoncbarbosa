@@ -1,6 +1,6 @@
-## Olá! Me chamo Ramon Barbosa
-- 👨🏾‍🎓 Atualmente eu sou estudante do Curso de Sistemas de Informação na Federal do Sul e Suldeste do Pará
-- 🌱 Estudando Desenvolvimento de Aplicações Web
+## Hi! My name is Ramon Barbosa.
+- 👨🏾‍🎓 I am currently a student of the Information Systems course at the Federal University of Southern and Southeastern Pará.
+- 🌱 Studying Web Application Development, Web Accessibility, and Applied Computing in Education.
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <img alt="GitHub Stats" style="width: 400px; min-height: 400px; object-fit: cover; align-self: center; margin: auto;" src="https://github-readme-stats.vercel.app/api?username=ramoncbarbosa&show_icons=true&theme=dark" />
