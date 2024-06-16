@@ -6,7 +6,7 @@
 ## Skills Level em Andamento
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,py,nodejs,express,react,linux,git,docker,firebase,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,py,nodejs,express,react,linux,git,docker,firebase,mongodb" />
   </a>
 </p>
           
