@@ -22,7 +22,7 @@
     <td>
       <div style="width: 200px;">
         <a href="https://github.com/ramoncbarbosa/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoncbarbosa&langs_count=8&layout=compact" alt="Top Langs" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoncbarbosa&langs_count=8&layout=compact&theme=tokyonight" alt="Top Langs" />
         </a>
       </div>
     </td>
