@@ -1,8 +1,9 @@
-## Olá! Meu nome é Ramon Barbosa.
-- 👨🏾‍🎓 Atualmente sou estudante do curso de Sistemas de Informação na Universidade Federal do Sul e Sudeste do Pará.
-- 🌱 Estudando Desenvolvimento de Aplicações Web, Acessibilidade na Web e Computação Aplicada à Educação.
+## Hello! My name is Ramon Barbosa.
+- 👨🏾‍🎓 I am currently a student in the Information Systems program at the Federal University of South and Southeast Pará.
+- 🌱 I am studying Web Application Development, Web Accessibility, and Applied Computing in Education.
 
-## Skills
+
+## Skill's
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,git,docker,express,sqlite,postgres,sequelize,firebase,mongodb"/>
