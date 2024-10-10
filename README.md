@@ -2,7 +2,6 @@
 - 👨🏾‍🎓 I`m currently a student in the Information Systems program at the Federal University of South and Southeast Pará.
 - 🌱 I`m studying Web Application Development and Mobile Application Development, Web Accessibility, and Applied Computing in Education.
 
-
 ## Skill's
 <p>
   <a href="https://skillicons.dev">
