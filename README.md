@@ -4,10 +4,10 @@
 
 
 
-## Skill's
+## Skill's 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,java,js,ts,express,nestjs,react,next,jest,linux,git,docker,sqlite,postgres,prisma,sequelize,firebase,mongodb,aws"/>
+    <img src="https://skillicons.dev/icons?i=java,js,ts,express,nestjs,jest,linux,git,docker,sqlite,postgres,prisma,sequelize,firebase,mongodb,aws,html,css,tailwind,scss,react,next,"/>
   </a>
 </p>
 
