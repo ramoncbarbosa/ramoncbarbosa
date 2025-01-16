@@ -11,7 +11,7 @@
   </a>
 </p>
 
-
+ <!--  <p>html,css,tailwind,scss,react,next,</p>  -->
 
 ## Contact
 <a href="https://www.linkedin.com/in/ramon-barbosa-712273237/" target="_blank">
