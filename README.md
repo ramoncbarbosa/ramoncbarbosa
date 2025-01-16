@@ -7,7 +7,7 @@
 ## Skill's 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,ts,express,nestjs,jest,linux,git,docker,sqlite,postgres,firebase,mongodb,prisma,sequelize,aws,html,css,tailwind,scss,react,next,"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,ts,express,nestjs,jest,linux,git,docker,sqlite,postgres,firebase,mongodb,prisma,sequelize,aws"/>
   </a>
 </p>
 
