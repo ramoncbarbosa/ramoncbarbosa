@@ -6,7 +6,7 @@
 🌱 Studying Web & Mobile Development, Web Accessibility, and Cloud Computing</br>
 ⚡ Enthusiastic about performance optimization, clean architecture, and best practices</br>
 ## 🛠 Tech Stack</br>
-<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,ts,express,nestjs,linux,git,docker,sqlite,postgres,firebase,mongodb,prisma,sequelize,hibernate,kafka,rabbitmq,aws,cypress,jest,selenium"/> </a> </p></br>
+<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,js,ts,express,nestjs,linux,git,docker,sqlite,postgres,firebase,mongodb,prisma,sequelize,hibernate,kafka,rabbitmq,aws,cypress,jest"/> </a> </p></br>
 
 ## 🌎 Portfolio</br>
 📌 https://ramonbarbosa.vercel.app/
