@@ -17,7 +17,7 @@ I'm an enthusiast of areas such as **education**, **web accessibility**, and **d
 ### 🛠 Tech Stack
 <p>
   <a href="https://skillicons.dev/icons?i=java,spring,maven,nodejs,js,ts,express,nestjs,linux,git,docker,sqlite,postgres,firebase,mongodb,prisma,sequelize,hibernate,kafka,rabbitmq,aws,cypress,jest">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,js,ts,express,nestjs,linux,git,docker,sqlite,postgres,firebase,mongodb,prisma,sequelize,hibernate,kafka,rabbitmq,aws,cypress,jest"/>
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,js,ts,express,nestjs,linux,git,docker,sqlite,postgres,redis,mongodb,prisma,sequelize,hibernate,kafka,rabbitmq,aws,cypress,jest"/>
   </a>
 </p>
 
