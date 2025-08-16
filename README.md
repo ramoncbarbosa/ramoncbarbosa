@@ -1,21 +1,34 @@
-## 🚀 About Me</br>
-🎓 Information Systems Student at the Federal University of South and Southeast Pará
-</br>
-💻 Full Stack Developer passionate about scalable web & mobile applications
-🔥 Focused on Full Stack Development, building efficient and scalable solutions</br>
-🌱 Studying Web & Mobile Development, Web Accessibility, and Cloud Computing</br>
-⚡ Enthusiastic about performance optimization, clean architecture, and best practices</br>
-## 🛠 Tech Stack</br>
-<p> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,js,ts,express,nestjs,linux,git,docker,sqlite,postgres,firebase,mongodb,prisma,sequelize,hibernate,kafka,rabbitmq,aws,cypress,jest"/> </a> </p></br>
+## 🇧🇷 Versão em Português
+### 🚀 Sobre Mim
+Sou um desenvolvedor **Full Stack Web** em formação, cursando Sistemas de Informação. Minha paixão é construir soluções web eficientes e escaláveis.
 
-## 🌎 Portfolio</br>
-📌 https://ramonbarbosa.vercel.app/
+Sou entusiasta por áreas como **educação**, **acessibilidade** e **segurança de dados**. Dedico-me a aplicar boas práticas de arquitetura e código limpo para criar aplicações que sejam não apenas robustas, mas também seguras e acessíveis a todos os usuários.
 
-## 📬 Contact
+---
+
+## 🇺🇸 English Version
+### 🚀 About Me
+I'm a **Full Stack Web Developer** in training, pursuing a degree in Information Systems. My passion is to build efficient and scalable web solutions.
+
+I'm an enthusiast of areas such as **education**, **web accessibility**, and **data security**. I'm dedicated to applying best practices in architecture and clean code to create applications that are not only robust but also secure and accessible to all users.
+
+---
+
+### 🛠 Tech Stack
+<p>
+  <a href="https://skillicons.dev/icons?i=java,spring,maven,nodejs,js,ts,express,nestjs,linux,git,docker,sqlite,postgres,firebase,mongodb,prisma,sequelize,hibernate,kafka,rabbitmq,aws,cypress,jest">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,js,ts,express,nestjs,linux,git,docker,sqlite,postgres,firebase,mongodb,prisma,sequelize,hibernate,kafka,rabbitmq,aws,cypress,jest"/>
+  </a>
+</p>
+
+---
+
+### 🌎 Portfólio / Portfolio
+📌 [https://ramonbarbosa.vercel.app/](https://ramonbarbosa.vercel.app/)
+
+---
+
+### 📬 Contato / Contact
 <a href="https://www.linkedin.com/in/ramon-barbosa-712273237/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
- <!--  <p>html,css,tailwind,scss,react,next,</p>  -->
-
-
