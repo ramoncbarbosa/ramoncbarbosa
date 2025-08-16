@@ -1,0 +1,9 @@
+.skill-icons {
+  width: 150px; /* Tamanho padrão para telas maiores */
+}
+
+@media (max-width: 768px) {
+  .skill-icons {
+    width: 90px; /* Diminui o tamanho em telas menores */
+  }
+}
