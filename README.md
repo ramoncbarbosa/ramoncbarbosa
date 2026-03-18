@@ -23,7 +23,7 @@ I'm an enthusiast of areas such as **education**, **web accessibility**, and **d
 ---
 
 ### 🌎 Portfólio / Portfolio
-📌 [https://ramonbarbosa.vercel.app/](https://ramonbarbosa.vercel.app/)
+📌 <a href="https://portfolio.neuroncrafters.dev/" target="_blank" rel="noopener noreferrer">Portfólio</a>
 
 ---
 
